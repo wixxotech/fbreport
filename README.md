@@ -14,7 +14,7 @@ $ apt update && apt upgrade
 $ apt install python2
 $ apt install python
 $ apt install git
-$ git clone https://github.com/penucuriCode/fbreport
+$ git clone https://github.com/wixxotech/fbreport
 $ cd report
 $ unzip report.zip
 $ python2 report.py
